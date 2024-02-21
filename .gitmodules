@@ -1,3 +1,4 @@
 [submodule "libsnark"]
 	path = libsnark
-	url = https://github.com/scipr-lab/libsnark.git
+	url = git@github.com:BananaLF/libsnark.git
+	branch = lf-main
